@@ -10,10 +10,12 @@ USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES
 
 
 
-## The Ladder Topology (lamos-rel.lsupd) *Last MoShell Release Status Update File
+## The Ladder Topology (lamos-rel.lsupd)
+*Last MoShell Release Status Update File
 USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > MAIN BRANCH > lamos-rel.lsupd
 
-## The Ladder Topology (lamol-rel.lsupd) *Last MoLava Release Status Update File
+## The Ladder Topology (lamol-rel.lsupd)
+*Last MoLava Release Status Update File
 USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > MAIN BRANCH > lamol-rel.lsupd
 
 
