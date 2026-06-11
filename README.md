@@ -6,6 +6,11 @@ USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES
 ## The Ladder Topology (jredep.exe) :
 USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES > jredep.exe
 
+## The Ladder Topology (cygsetup.exe) :
+USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES > cygsetup.exe
+
+## The Ladder Topology (all dep's in cygwin) :
+USERPC > MOLAVA SOFTWARE > -----INTERNET----- < CYGWIN MIRRORS
 
 
 
