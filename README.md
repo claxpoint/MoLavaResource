@@ -9,6 +9,9 @@ USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES
 ## The Ladder Topology (cygsetup.exe) :
 USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES > cygsetup.exe
 
+## The Ladder Topology (cygwin_install.txt) :
+USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > RELEASES > cygwin_install.txt
+
 ## The Ladder Topology (all dep's in cygwin) :
 USERPC > MOLAVA SOFTWARE > -----INTERNET----- < CYGWIN MIRRORS
 
