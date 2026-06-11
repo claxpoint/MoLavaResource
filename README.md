@@ -33,4 +33,5 @@ USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > MAIN BRA
 ### MOSHELL = 26.0j
 
 
-Created by LavaShell" Innovations & Moein Nikchehre - 2026
+MoLava Created by LavaShell" Innovations & Moein Nikchehre - 2026
+MoShell Created by Ericsson AB
