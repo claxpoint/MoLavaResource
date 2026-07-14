@@ -30,7 +30,7 @@ USERPC > MOLAVA SOFTWARE > -----INTERNET----- < GITHUB SERVERS > REPO > MAIN BRA
 
 
 ### MOLAVA = v4
-### MOSHELL = 26.0j
+### MOSHELL = 26.0l
 
 
 MoLava Created by LavaShell" Innovations & Moein Nikchehre - 2026
